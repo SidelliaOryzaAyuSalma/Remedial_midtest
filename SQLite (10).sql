@@ -1,1 +1,0 @@
-select * from employee_table order by salary desc;
